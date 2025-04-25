@@ -53,22 +53,3 @@ npm install
 npm run dev 
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[Creative_Crew](https://github.com/Cre-tive-Crew)
-
-## TEAM : CREATIVE_CREW
-[Utkarsh Goel](https://github.com/UtkarshGoel18)
-
-[Abhishek Jaiswal](https://github.com/abhishekjais-124)
-
-[Dheeraj Maurya](https://github.com/jareehd)
-
-[Ayush Avasthi](https://github.com/avasthiayush)
-
-[Prateek Pandey](https://github.com/pprockys)
-
